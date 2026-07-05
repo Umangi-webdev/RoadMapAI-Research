@@ -6,7 +6,6 @@
 ![AI](https://img.shields.io/badge/AI-Large%20Language%20Models-orange?style=for-the-badge)
 ![MERN](https://img.shields.io/badge/MERN-Stack-success?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 
 </p>
 
