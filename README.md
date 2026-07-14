@@ -149,7 +149,7 @@ This repository demonstrates:
 The complete IEEE-style research paper is available in this repository:
 
 ```
-Research Paper.pdf
+Research Paper.pdf : https://github.com/Umangi-webdev/RoadMapAI-Research
 ```
 
 ---
